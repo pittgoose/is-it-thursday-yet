@@ -1,0 +1,14 @@
+{
+  "name": "is-it-thursday-yet",
+  "version": "1.0.0",
+  "description": "Is it thursday yet?",
+  "main": " ",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "critical-role"
+  ],
+  "author": "Yehuda Miller",
+  "license": "ISC"
+}
